@@ -11,6 +11,7 @@
 - [Symcon Automation Solutions](https://github.com/Schnittcher/IPS-Zigbee2MQTT)
 - [Gladys Assistant](https://gladysassistant.com/docs/integrations/zigbee2mqtt/)
 - [HomeSeer](https://shop.homeseer.com/products/homeseer-zigbee-plus-plugin-for-hs4)
+- [Loxone Smarthome via Loxberry](https://wiki.loxberry.de/plugins/zigbee2mqtt_plugin/start) 
 
 This list gives only a narrow overview. To use Zigbee2MQTT with other systems it's not
 mandatory to have a _native_ integration but support for MQTT. A native integration just makes things more easy and "clickable".
